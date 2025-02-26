@@ -27,7 +27,7 @@ This course provides a comprehensive foundation in computational tools and machi
 | 02/04        | Data storage                     | GeoTiff/NetCDF/HDF5/Zarr             |                        |
 | 02/06        | Probability/Statistics           |                                       | HW 0                   |
 | 02/11        | Bayesian Statistics              |                                       |                        |
-| 02/13        | Spring Recess                    |                                       |                        |
+| Spring Recess                                  |                                   |                       |
 | 02/18        | Map Projections I                | Cartopy                               |                        |
 | 02/20        | Map Projections II               | GDAL                                  |                        |
 | 02/25        | Multi-dimensional arrays II      | CDO/Xarray                            | HW1                    |
@@ -36,7 +36,7 @@ This course provides a comprehensive foundation in computational tools and machi
 | 03/06        | Cluster Analysis II              |                                       |                        |
 | 03/11        | Dimensionality Reduction         |                                       | HW 2                   |
 | 03/13        | Interactive Visualization        | Folium/leaflet                        |                        |
-| **Spring Break** |                              |                                       |                        |
+| Spring Break                                  |                                   |                       |
 | 03/25        | Decision Trees                   |                                       | Project Proposal       |
 | 03/27        | Random Forests & Boosting        |                                       |                        |
 | 04/01        | Artificial Neural Networks       |                                       | HW 3                   |
