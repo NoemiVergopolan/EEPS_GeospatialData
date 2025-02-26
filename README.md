@@ -27,7 +27,7 @@ This course provides a comprehensive foundation in computational tools and machi
 | 02/04        | Data storage                     | GeoTiff/NetCDF/HDF5/Zarr             |                        |
 | 02/06        | Probability/Statistics           |                                       | HW 0                   |
 | 02/11        | Bayesian Statistics              |                                       |                        |
-| 02/13        |                                  |                                       |                        |
+| 02/13        | Spring Recess                    |                                       |                        |
 | 02/18        | Map Projections I                | Cartopy                               |                        |
 | 02/20        | Map Projections II               | GDAL                                  |                        |
 | 02/25        | Multi-dimensional arrays II      | CDO/Xarray                            | HW1                    |
