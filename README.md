@@ -16,37 +16,38 @@ This course provides a comprehensive foundation in computational tools and machi
 
 ## Tentative Course Schedule
 
+| **Timeline** | **Topic**                        | **Software**                          | **Assignments**        |
+|--------------|----------------------------------|---------------------------------------|------------------------|
+| 01/14        | Introduction                     | Jupyter/GitHub/Bash                   |                        |
+| 01/16        | Python overview                  | Python                                |                        |
+| 01/21        | Snow day - classes canceled      |                                       |                        |
+| 01/23        | Getting started on HPC           |                                       |                        |
+| 01/28        | Multi-dimensional arrays I / Visualization | NumPy / Matplotlib                   |                        |
+| 01/30        | Probability/Statistics           | Scipy                                 |                        |
+| 02/04        | Data storage                     | GeoTiff/NetCDF/HDF5/Zarr             |                        |
+| 02/06        | Probability/Statistics           |                                       | HW 0                   |
+| 02/11        | Bayesian Statistics              |                                       |                        |
+| 02/13        |                                  |                                       |                        |
+| 02/18        | Map Projections I                | Cartopy                               |                        |
+| 02/20        | Map Projections II               | GDAL                                  |                        |
+| 02/25        | Multi-dimensional arrays II      | CDO/Xarray                            | HW1                    |
+| 02/27        | Vector Data                      | OGR/Shapely/GeoPandas                 |                        |
+| 03/04        | Cluster Analysis I               | Scikit-Learn                          |                        |
+| 03/06        | Cluster Analysis II              |                                       |                        |
+| 03/11        | Dimensionality Reduction         |                                       | HW 2                   |
+| 03/13        | Interactive Visualization        | Folium/leaflet                        |                        |
+| **Spring Break** |                              |                                       |                        |
+| 03/25        | Decision Trees                   |                                       | Project Proposal       |
+| 03/27        | Random Forests & Boosting        |                                       |                        |
+| 04/01        | Artificial Neural Networks       |                                       | HW 3                   |
+| 04/03        | Convolutional Neural Networks    |                                       |                        |
+| 04/08        | Kriging and Semi-variogram      |                                       |                        |
+| 04/10        | Regression Kriging               |                                       |                        |
+| 04/15        | Terrain Analysis                 |                                       | HW 4                   |
+| 04/17        | Parallel computing               | Numba/Mpi4py/Dask                     |                        |
+| 04/22        | Oral Presentations               |                                       |                        |
+| 04/24        | Oral Presentations               |                                       | Project Paper          |
 
-| *Date*   | *Topic*                      | *Software*                        | *Assignments*      |
-|--------|-------------------------------|----------------------------------|------------------|
-| 01/14  | Introduction                    | Jupyter/GitHub/Bash              |                  |
-| 01/16  | Python overview                 | Python                           |                  |
-| 01/21  | Snow day - classes canceled     |                                  |                  |
-| 01/23  | Getting started on HPC          |                                  |                  |
-| 01/28  | Multi-dimensional arrays I / Visualization | NumPy / Matplotlib     |                  |
-| 01/30  | Probability/Statistics          | Scipy                            |                  |
-| 02/04  | Data storage                    | NetCDF/GeoTiff/NetCDF/HDF5/Zarr   |                  |
-| 02/06  | Probability/Statistics          |                                  | HW 0             |
-| 02/11  | Bayesian Statistics             |                                  |                  |
-| 02/18  | Map Projections I                | Cartopy                          |                  |
-| 02/20  | Map Projections II               | GDAL                             |                  |
-| 02/25  | Multi-dimensional arrays II      | CDO/Xarray                        | HW1              |
-| 02/27  | Vector Data                      | OGR/Shapely/GeoPandas             |                  |
-| 03/04  | Cluster Analysis I               | Scikit-Learn                      |                  |
-| 03/06  | Cluster Analysis II              |                                  |                  |
-| 03/11  | Dimensionality Reduction         |                                  | HW 2             |
-| 03/13  | Decision Trees                   |                                  |                  |
-|        | **Spring Break**                 |                                  |                  |
-| 03/25  | Random Forests & Boosting        |                                  | Project Proposal |
-| 03/27  | Artificial Neural Networks       |                                  |                  |
-| 04/01  | Convolutional Neural Networks    |                                  | HW 3             |
-| 04/03  | Kriging and Semi-variogram        |                                  |                  |
-| 04/08  | Regression Kriging               |                                  |                  |
-| 04/10  | Terrain Analysis                 |                                  |                  |
-| 04/15  | Interactive Visualization        | Folium/leaflet                     | HW 4             |
-| 04/17  | Parallel computing               | Numba/Mpi4py/Dask                  |                  |
-| 04/21  | Oral Presentations               |                                  |                  |
-| 04/23  | Oral Presentations               |                                  | Project Paper    |
 
 
 
